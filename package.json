@@ -1,5 +1,5 @@
 {
-  "name": "mdn-data",
+  "name": "mdn-data-papandreou",
   "version": "2.0.10",
   "description": "Open Web data by the Mozilla Developer Network",
   "main": "index.js",
